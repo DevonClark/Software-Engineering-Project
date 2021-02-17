@@ -1,0 +1,35 @@
+.active {
+    width: 100% !important;
+}
+
+.RML-login-modal-mode div:nth-child(2){
+    width: 0px;
+    height: 0ps;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.RML-login-modal-mode {
+    height: 30px
+}
+
+label {
+    color: black;
+    text-align: left;
+    float: left;
+    font-weight: bold;
+}
+
+.pop{
+justify-content: center;
+height: 300px;
+width: 500px !important;
+margin-left: 200px;
+}
+.content > .ui.form{
+text-align: center;
+justify-content: center;
+margin-left: 6px;
+width: 300px;
+}

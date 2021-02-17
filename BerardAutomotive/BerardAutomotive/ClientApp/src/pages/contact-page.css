@@ -1,0 +1,66 @@
+.rbc-day-bg:hover {
+  background-color: #e5f4fe;
+  cursor: pointer;
+}
+.rbc-toolbar-label {
+  margin-right: 195px;
+}
+
+.contact{
+  margin: 5%;
+  display: inline-flex;
+}
+.rbc-calender{
+margin-left: 40% !important;
+}
+
+
+.ui.grid{
+  margin-right: -20rem !important;
+}
+
+.setup{
+text-align: center;
+border-style: ridge;
+}
+.selectadate{
+text-align: center;
+}
+
+.officeOne,.officeTwo,.officeThree{
+  padding: 20px;
+  text-align: center;
+  height: 90%;
+  color: white;
+  min-width: 40%;
+  border-radius: 10px;
+  z-index: -3;
+}
+.officeOne{
+background-color: #809fff;
+}
+.officeTwo{
+background-color: darkblue;
+}
+.officeThree{
+background-color: #001861;
+}
+.rbc-btn-group{
+z-index: 2;
+}
+.ui.modal{
+text-align: center;
+}
+.content{
+width: 70%;
+margin-left: 15%;
+padding: 5%;
+}
+.actions{
+padding: .5%;
+}
+
+
+
+
+
